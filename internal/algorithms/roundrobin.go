@@ -5,7 +5,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/michaeldeveau/load-balancer/pkg/loadbalancer"
+	"github.com/mdeveau96/load-balancer/pkg/loadbalancer"
 )
 
 type RoundRobinLoadBalancer struct {
